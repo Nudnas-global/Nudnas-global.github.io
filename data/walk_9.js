@@ -1,0 +1,1 @@
+var json_walk_9 = {"type":"FeatureCollection","name":"walk_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[79.899852551463709,6.795356507724352]}}]}
